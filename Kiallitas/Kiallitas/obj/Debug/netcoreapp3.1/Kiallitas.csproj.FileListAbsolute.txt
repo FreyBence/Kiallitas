@@ -1,0 +1,42 @@
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.exe
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.deps.json
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.runtimeconfig.json
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.runtimeconfig.dev.json
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.dll
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.pdb
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.csproj.AssemblyReference.cache
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.AssemblyInfoInputs.cache
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.AssemblyInfo.cs
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.dll
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.pdb
+C:\Users\Lenovo Idepad Y700\source\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.genruntimeconfig.cache
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.exe
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.deps.json
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.runtimeconfig.json
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.runtimeconfig.dev.json
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.dll
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.pdb
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.csproj.AssemblyReference.cache
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.AssemblyInfoInputs.cache
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.AssemblyInfo.cs
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.dll
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.pdb
+C:\Users\Lenovo Idepad Y700\OneDrive - Óbudai egyetem\Asztal\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.genruntimeconfig.cache
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.exe
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.deps.json
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.runtimeconfig.json
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.runtimeconfig.dev.json
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.dll
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\bin\Debug\netcoreapp3.1\Kiallitas.pdb
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.csproj.AssemblyReference.cache
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.AssemblyInfoInputs.cache
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.AssemblyInfo.cs
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.dll
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.pdb
+C:\Users\Lenovo Idepad Y700\Desktop\repos\Kiallitas\Kiallitas\obj\Debug\netcoreapp3.1\Kiallitas.genruntimeconfig.cache

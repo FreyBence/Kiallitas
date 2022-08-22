@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Om3uCh2ZdcVPYJ1nu7Wj0w9j25it9qKkEcOAl8QYLdSs9gvecIHB3gd5vR9574f9Kb4LXJjuVpxReZGv4FOoDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo Idepad Y700\\Desktop\\repos\\Kiallitas\\Kiallitas\\Kiallitas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo Idepad Y700\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
